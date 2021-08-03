@@ -1,0 +1,35 @@
+h1{
+    background-color: #7bed9f;
+    color: forestgreen;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color: #6D214F;
+    display: flex;
+    border-radius: 10px;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.Items{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 90px;
+}
+
+.Items2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 90px;
+}
+
+.Links{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+*{
+    background-color: cornflowerblue;
+}
